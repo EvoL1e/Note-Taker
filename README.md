@@ -24,16 +24,7 @@ I was tasked with making a note taker application that would let someone take no
     5. Open the file with your IDE of choice and start coding or if you want to try it within your local system ensure that you have node installed (you can do this by typing in the console node --v), move to the develop folder, install the required files by doing npm i, and then doing node index.js
 
 ## Usage
-
-
-
-* Images and video of the functionality of this script
-
-    ![A](Assets/q.PNG)
-
-    ![A ](Assets/r.PNG)
-
-    A link to a video showcasing the usage of the script: 
+ Link to the site https://morning-waters-56079.herokuapp.com/
 
 ## Credits
 
